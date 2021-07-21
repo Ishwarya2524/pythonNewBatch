@@ -1,0 +1,55 @@
+1620205338089	geckodriver	INFO	Listening on 127.0.0.1:51577
+1620205344097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARULKU~1\\AppData\\Local\\Temp\\rust_mozprofilelSOZzj"
+1620205348524	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 1436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620205360903	Marionette	INFO	Listening on port 51587
+1620205361515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620205473070	geckodriver	INFO	Listening on 127.0.0.1:51736
+1620205476087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARULKU~1\\AppData\\Local\\Temp\\rust_mozprofileu52JgS"
+1620205477018	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620205481207	Marionette	INFO	Listening on port 51744
+1620205481689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+1620205513212	Marionette	INFO	Stopped listening on port 51744
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620205562720	geckodriver	INFO	Listening on 127.0.0.1:51894
+1620205565720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ARULKU~1\\AppData\\Local\\Temp\\rust_mozprofilepWDRt1"
+1620205566653	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620205570837	Marionette	INFO	Listening on port 51902
+1620205571234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620205597397	Marionette	INFO	Stopped listening on port 51902
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
